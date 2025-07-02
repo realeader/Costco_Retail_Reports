@@ -1,6 +1,8 @@
 # 🛒 Costco Retail Sales Trends Analysis - Power BI
 
-  
+  <p align="center">
+  <img src="https://github.com/realeader/Costco_Retail_Reports/blob/main/Costco_Logo.png" alt="Costco Logo" width="360"/>
+</p>
 
 ## 📊 Project Overview  
 This Power BI dashboard transforms **raw, unstructured retail sales data** into a **clean, insightful, and interactive dashboard**, helping decision-makers uncover trends in revenue, profit, and product performance.
